@@ -61,3 +61,4 @@ export const fetchTriviaQuestions = async (
     throw error;
   }
 };
+
