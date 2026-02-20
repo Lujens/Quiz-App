@@ -1,6 +1,6 @@
-# Quiz App - Take-Home Kata
+# Quiz App
 
-A web-based trivia quiz application built with React and TypeScript for the Direct Supply internship application.
+A web-based trivia quiz application built with React and TypeScript
 
 ## 🎯 Project Overview
 
