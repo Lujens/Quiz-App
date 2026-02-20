@@ -112,6 +112,24 @@ Used Tailwind CSS for:
 - Responsive layout without custom CSS
 - Built-in transitions and animations
 
+## 📸 Screenshots
+
+### Category Selection
+![Category Selection](screenshots/category-selection.png)
+*Choose from 8 categories and 3 difficulty levels*
+
+### Quiz in Action
+![Quiz Question](screenshots/quiz-question.png)
+*15-second timer with color-coded countdown bar*
+
+### Answer Feedback
+![Answer Feedback](screenshots/answer-feedback.png)
+*Immediate visual feedback with correct answer highlighted*
+
+### Results Screen
+![Results Screen](screenshots/results-screen.png)
+*Final score with performance feedback*
+
 ## 🧪 Development Process
 
 ### Challenges Faced
