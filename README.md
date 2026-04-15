@@ -1,7 +1,7 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Lujens/Quiz-App/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Lujens/Quiz-App)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12548/badge)](https://www.bestpractices.dev/projects/12548)
 
-# Quiz App
+# Quiz App 
 
 A web-based trivia quiz application built with React and TypeScript
 
